@@ -1,0 +1,30 @@
+body{   
+    font-family: rubik, helvetika, arial,sans-serif;
+    font-size: 16px;
+}
+.table{
+    border-collapse: collapse;
+    
+    
+}
+.table th,
+.table td {
+    border: 1px solid #a2a9b1;
+    padding: 7px;
+}
+.table th{
+    color:rgb(rgb(111, 248, 248), rgb(201, 235, 229), rgb(98, 98, 233)) ;
+}
+.italic{
+    font-style: italic;
+}
+a{ 
+    text-decoration: none;
+color: blue;
+}
+
+
+
+
+
+  
